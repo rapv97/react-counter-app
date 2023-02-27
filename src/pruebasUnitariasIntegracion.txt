@@ -1,0 +1,40 @@
+pruebas unitarias
+
+
+unitarias y de integracion
+
+Unitarias: Enfocadas en pequeñas funcionalidades
+
+ejemplo la llanta de un vehiculo corroboramos que gire bien, que no hayan
+deformaciones etc
+
+
+Integracion_: enfocadas en como reaccionan varias piezas en conjunto
+
+ejemplo de integracion es probar la llantas integrandolas con el vehiculo
+y ver si trabajan correctamente
+
+caracteristicas de las pruebas
+1 faciles de escribir
+2 faciles de leer
+3 confiables
+4 rapidas
+5 principalmente unitarias
+
+A ARRANGE (ARREGLAR):
+
+paso en el cual nosotros establecemos el paso inicial. se prepara el ambiente a probar
+se inicializan variables, se hacen importaciones necesarias etc.
+
+A ACT (ACTUAR):
+
+acciones o estimulos llamar metodos, simular clicks, realizar acciones sobre el paso anterios, aplicamos el estimulo al sujeto de pruebas para verificar su comportamiento
+
+
+A ASSERT (AFIRMAR)
+
+se resume a observar el comportamiento resultante, que algo cambie, que algo incremente, o que no haya pasado nada
+
+
+
+
